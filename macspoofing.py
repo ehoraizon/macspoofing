@@ -1,4 +1,4 @@
-"""This script only works in windows.
+"""This script  works only on windows.
 if you wan to change your mac address on linux use macchanger"""
 
 import winreg
